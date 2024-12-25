@@ -1,3 +1,6 @@
 Import boto3
 instances = [instancid, intancwei]
 ec1 = ec2.aws
+aws = strt-instances
+print start instances
+thnk
